@@ -13,9 +13,11 @@ Installation can be non-trivial. But, the following steps should work on any Win
 * Change directory to where the above is saved and run: `python -m pip install *.whl`
 * Run `Conda install pycairo`
 OR for google colab run
-``!pip install python-igraph==0.8.3
+```
+!pip install python-igraph==0.8.3
 !apt install libcairo2-dev pkg-config python3-dev
-!pip install python-igraph leidenalg cairocffi ````
+!pip install python-igraph leidenalg cairocffi 
+```
 
 ## Quick view of Network analysis notebook
 - You may want to have a quick view of [*Network Analysis with igraph*](https://github.com/MengyaoHuang/NetworkAnalysis-igraph/blob/master/IntroNetworkAnalysis.ipynb)
