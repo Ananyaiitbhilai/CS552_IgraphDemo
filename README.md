@@ -19,5 +19,3 @@ OR for google colab run
 !pip install python-igraph leidenalg cairocffi 
 ```
 
-## Quick view of Network analysis notebook
-- You may want to have a quick view of [*Network Analysis with igraph*](https://github.com/MengyaoHuang/NetworkAnalysis-igraph/blob/master/IntroNetworkAnalysis.ipynb)
